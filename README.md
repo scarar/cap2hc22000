@@ -10,3 +10,9 @@ Invision by:
 
 Scarar
 
+cap2hc22000-menu.py (Updated)
+
+## This will detect the .cap files inside the directery and convert ALL or a specific file and create a directery called converted_files that will 
+## have the converted .hc22000 files inside. 
+## Invision By:
+## Scarar
